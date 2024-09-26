@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@ASHGAMER" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ASH GAMER&subtitle=@ashgamer627&size=square" alt="ASH GAMER">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ASHGAMER&subtitle=@ashgamer627&size=square" alt="ASH GAMER">
       </a>
     </td>
     <td align="center">
