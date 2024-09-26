@@ -66,22 +66,22 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHRAY-GOWDA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASHRAY-GOWDA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ASHRAY-GOWDA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ASHRAY-GOWDA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="ASHRAY-GOWDA's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASHRAY-GOWDA&theme=highcontrast&hide_border=true" alt="ASHRAY-GOWDA's Profile Details">
 
 ### Top Repositories
 <div align="center">
