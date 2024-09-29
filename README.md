@@ -17,13 +17,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@ASHGAMER" target="_blank">
+      <a href="https://www.youtube.com/@ashgamer627" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40@ashgamer627&subtitle=@ashgamer627&size=square" alt="ASH GAMER">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/ashray.p_gowda/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fashray.p_gowda%2F&subtitle=@ashray.p_gowda&size=square" alt="Ashray Gowda">
+      <a href="https://www.instagram.com/ashray_p.gowda/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fashray_p.gowda%2F&subtitle=@ashray_p.gowda&size=square" alt="Ashray Gowda">
       </a>
     </td>
     <td align="center">
