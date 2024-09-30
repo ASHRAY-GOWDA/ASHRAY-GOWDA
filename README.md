@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ASHRAY-GOWDA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -165,11 +165,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+    <a href="https://www.instagram.com/ashray_p.gowda/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/ashray_p.gowda/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
