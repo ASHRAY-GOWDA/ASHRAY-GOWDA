@@ -228,7 +228,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCU30UCDP4FwfluN_8jaM4Qw&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCU30UCDP4FwfluN_8jaM4Qw)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCU30UCDP4FwfIuN_8jaM4Qw&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCU30UCDP4FwfIuN_8jaM4Qw)
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
