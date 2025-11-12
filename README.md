@@ -115,7 +115,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 ### GitHub Contribution Chart
 <a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+    <img src="https://ghchart.rshah.org/ASHRAY-GOWDA" alt="ASHRAY's GitHub Contribution Chart">
 </a>
 
 
@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:ashraypgowda@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=ashraypgowda@gmail.com&size=square" alt="ASH GAMER" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
