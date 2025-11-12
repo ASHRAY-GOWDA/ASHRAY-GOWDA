@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Ashray Gowda</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=Cyan&center=true&vCenter=true&width=435&lines=Electronis+Engineer;Computer+Engineer;Learner+🧠;Front-End+Developer;Back-End+Developer;Gamer+😎;YouTuber;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=Cyan&center=true&vCenter=true&width=435&lines=Electronics+Engineer;Computer+Engineer;Learner+🧠;Front-End+Developer;Back-End+Developer;Gamer+😎;YouTuber;" alt="Typing SVG" />
 
 </p>
 
