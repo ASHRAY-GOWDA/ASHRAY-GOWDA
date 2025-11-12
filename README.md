@@ -458,30 +458,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
  </table>
 </div>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
